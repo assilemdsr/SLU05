@@ -1,0 +1,6 @@
+- milk
+- eggs
+- orange juice
+- potatoes
+- rice
+- butter
