@@ -3,3 +3,8 @@
 - Lisboa
 - Ovar
 - Alverca do Ribatejo
+<<<<<<< HEAD
+=======
+- Santarém
+- Sesimbra
+>>>>>>> Ubereats
